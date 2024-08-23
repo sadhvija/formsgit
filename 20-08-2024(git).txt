@@ -1,0 +1,59 @@
+git-global information tracker
+Git is an open source distributed version control system we can download easily
+used for making collaborations
+
+
+go to terminal and see weather git is installed or not use this command
+>>  git -v 
+
+for initialization of git use this command
+>> git init
+
+U- untracked
+
+git add day1.html// for adding a file to git
+
+git status// on branch master no commits yet
+            changes to be committed
+
+git config --global user.email "sadhvija@gmail.com"
+
+git commit -m "dayfile" is added
+
+git branch -M main
+
+git commit -m "changes happened"
+
+git remote add origin
+
+git status   
+if working tree is clean
+
+git branch -M main 
+
+git push origin main
+---------------------------------
+git init-- for initialization
+git add.  -- to add all files
+git status -- to check the status of the git
+git commit -m "" -- to give the commit
+git config --global user.email---
+
+git remote add origin 
+
+ls command in git, if we use ls command in git 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
